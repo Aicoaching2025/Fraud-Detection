@@ -79,6 +79,4 @@ By integrating these insights into your fraud detection models, you can create a
 
 ## Connect
 
-For further discussion, collaborations, or career opportunities, please connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or email me at [your.email@example.com](mailto:your.email@example.com).
-
-Empower your decision-making with data-driven insights and drive smarter fraud detection strategies!
+For further discussion, collaborations, or career opportunities, please connect with me on LinkedIn.
