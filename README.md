@@ -1,6 +1,6 @@
 # Fraud Detection with Data Science: Key Insights & Best Practices
 
-This README outlines key conclusions and actionable insights for fraud detection using data science techniques. The following points describe how you can leverage domain-specific features and model outputs (e.g., from a logistic regression model) to flag potential fraudulent behavior. This guide is designed for data scientists and financial professionals alike, and it's perfect for sharing on LinkedIn to showcase your expertise in fraud detection.
+This README outlines key conclusions and actionable insights for fraud detection using data science techniques. The following points describe how you can leverage domain-specific features and model outputs (e.g., from a logistic regression model) to flag potential fraudulent behavior. This guide is designed for data scientists and financial professionals alike.
 
 ---
 
